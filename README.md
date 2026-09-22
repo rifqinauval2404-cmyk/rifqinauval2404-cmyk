@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1127&height=220&section=header&text=M.%20Rifqi%20Nauval%20Nibroos&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=To%20Infinity%20and%20Beyond%20%E2%80%94%20Space%20Theme%20%E2%9C%A6&descAlignY=55&descAlign=50&fontAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1127&height=220&section=header&text=M.%20Rifqi%20Nauval%20Nibroos&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=To%20Infinity%20and%20Beyond%20%E2%80%94%20%20%E2%9C%A6&descAlignY=55&descAlign=50&fontAlign=50" />
 
 <p align="center">
   <a href="https://github.com/rifqinauval2404-cmyk"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&duration=3000&pause=900&color=ffffff&center=true&vCenter=true&width=620&lines=Informatics+Student+%E2%80%A2+Full-Stack+Developer;React+%E2%80%A2+Laravel+%E2%80%A2+Spring+Boot+%E2%80%A2+AI;Clean+%26+Minimal+%E2%80%A2+Glassmorphism+%E2%80%A2+Dark+Space" alt="Typing" /></a>
