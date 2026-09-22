@@ -56,11 +56,9 @@ Mahasiswa Informatika. Suka bikin aplikasi web yang clean dan enak dipakai. Foku
 ### Aktivitas
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/rifqinauval2404-cmyk" alt="Contribution chart" />
-</p>
-
-<p align="center">
+  <sub>Oct &nbsp;&nbsp; Nov &nbsp;&nbsp; Dec &nbsp;&nbsp; Jan &nbsp;&nbsp; Feb &nbsp;&nbsp; Mar &nbsp;&nbsp; Apr &nbsp;&nbsp; May &nbsp;&nbsp; Jun &nbsp;&nbsp; Jul &nbsp;&nbsp; Aug &nbsp;&nbsp; Sep</sub><br/>
   <img src="https://raw.githubusercontent.com/rifqinauval2404-cmyk/rifqinauval2404-cmyk/output/github-contribution-grid-snake-dark.svg" alt="Snake — animasi ular sesuai aktivitas GitHub kamu" />
+  <br/><sub>Mon &nbsp; Wed &nbsp; Fri &nbsp;·&nbsp; kotak hijau = hari ada kontribusi &nbsp;·&nbsp; ular ungu mengikuti jejak aktivitasmu</sub>
 </p>
 
 ---
