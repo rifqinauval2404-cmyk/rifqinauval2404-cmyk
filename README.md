@@ -19,7 +19,7 @@
 
 ---
 
-### 🌌 About Me — The Voyager
+### 🌌 About Me
 
 > **Mahasiswa Informatika** yang membangun aplikasi dengan prinsip yang sama seperti portofolio ini: **dark space, glassmorphism, clean & minim clutter.**
 > Fokus di `Web Development`, `AI`, dan `Jaringan Komputer` — bikin yang fungsional, enak dipakai, dan estetik.
@@ -63,7 +63,7 @@
 
 ---
 
-### 🗂️ Work Archive — Selected Missions
+### 🗂️ Work Archive
 
 > Sama seperti section `Work Archive` di PORTOFOLIO — kartu siku, 3 kolom, glass panel. Ini versi tabelnya untuk GitHub.
 
@@ -83,7 +83,7 @@
 
 ---
 
-### 🌠 Activity — Star Map
+### 🌠 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifqinauval2404-cmyk&bg_color=000000&color=9898a8&line=ffffff&point=ffffff&area=true&hide_border=true" />
