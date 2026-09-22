@@ -56,9 +56,12 @@ Mahasiswa Informatika. Suka bikin aplikasi web yang clean dan enak dipakai. Foku
 ### Aktivitas
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/rifqinauval2404-cmyk" alt="Contribution chart — data asli GitHub kamu" />
+  <img src="https://ghchart.rshah.org/rifqinauval2404-cmyk" alt="Contribution chart" />
 </p>
-<p align="center"><sub>Grafik kontribusi asli dari GitHub — sama seperti yang di profile kamu.</sub></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rifqinauval2404-cmyk/rifqinauval2404-cmyk/output/github-contribution-grid-snake-dark.svg" alt="Snake — animasi ular sesuai aktivitas GitHub kamu" />
+</p>
 
 ---
 
