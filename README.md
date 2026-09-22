@@ -33,12 +33,10 @@ Mahasiswa Informatika. Suka bikin aplikasi web yang clean dan enak dipakai. Foku
 ### Statistik
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifqinauval2404-cmyk&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=9898a8" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqinauval2404-cmyk&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=9898a8" height="150" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=rifqinauval2404-cmyk&hide_border=true&background=000000&stroke=0d1127&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9898a8" />
 </p>
+
+> Statistik detail (stars, top langs) sedang rate-limit dari provider. Akan muncul otomatis kalau server sudah pulih — streak di atas tetap live dari GitHub kamu.
 
 ---
 
@@ -58,9 +56,9 @@ Mahasiswa Informatika. Suka bikin aplikasi web yang clean dan enak dipakai. Foku
 ### Aktivitas
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifqinauval2404-cmyk&bg_color=000000&color=9898a8&line=ffffff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://ghchart.rshah.org/rifqinauval2404-cmyk" alt="Contribution chart — data asli GitHub kamu" />
 </p>
-<p align="center"><sub>Grafik di atas update otomatis sesuai kontribusimu di GitHub — bukan gambar statis.</sub></p>
+<p align="center"><sub>Grafik kontribusi asli dari GitHub — sama seperti yang di profile kamu.</sub></p>
 
 ---
 
