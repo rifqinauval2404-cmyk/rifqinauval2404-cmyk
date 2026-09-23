@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1127&height=200&section=header&text=Rifqi%20Nauval&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%7C%20Full-Stack%20Developer&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1127&height=200&section=header&text=Rifqi%20Nauval&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=55" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=500&lines=To+Infinity+and+Beyond;Building+clean+and+functional+apps" />
@@ -14,11 +14,7 @@
 
 ### Tentang Saya
 
-Mahasiswa Informatika. Suka bikin aplikasi web yang clean dan enak dipakai. Fokus di **React, Laravel, Spring Boot**.
-
-- Lagi ngerjain: SipDana, DuitFam, Urunan.ae, PHOTOCOFF
-- Tema favorit: dark space + glassmorphism — sama kayak portofolio
-- Portofolio: soon di vercel
+Mahasiswa Informatika. Suka bikin aplikasi web yang clean dan enak dipakai. Fokus di React, Laravel, dan Spring Boot.
 
 ---
 
@@ -35,8 +31,6 @@ Mahasiswa Informatika. Suka bikin aplikasi web yang clean dan enak dipakai. Foku
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rifqinauval2404-cmyk&hide_border=true&background=000000&stroke=0d1127&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9898a8" />
 </p>
-
-> Statistik detail (stars, top langs) sedang rate-limit dari provider. Akan muncul otomatis kalau server sudah pulih — streak di atas tetap live dari GitHub kamu.
 
 ---
 
@@ -57,11 +51,9 @@ Mahasiswa Informatika. Suka bikin aplikasi web yang clean dan enak dipakai. Foku
 
 <p align="center">
   <sub>Oct &nbsp;&nbsp; Nov &nbsp;&nbsp; Dec &nbsp;&nbsp; Jan &nbsp;&nbsp; Feb &nbsp;&nbsp; Mar &nbsp;&nbsp; Apr &nbsp;&nbsp; May &nbsp;&nbsp; Jun &nbsp;&nbsp; Jul &nbsp;&nbsp; Aug &nbsp;&nbsp; Sep</sub><br/>
-  <img src="https://raw.githubusercontent.com/rifqinauval2404-cmyk/rifqinauval2404-cmyk/output/github-contribution-grid-snake-dark.svg" alt="Snake — animasi ular sesuai aktivitas GitHub kamu" />
-  <br/><sub>Mon &nbsp; Wed &nbsp; Fri &nbsp;·&nbsp; kotak hijau = hari ada kontribusi &nbsp;·&nbsp; ular ungu mengikuti jejak aktivitasmu</sub>
+  <img src="https://raw.githubusercontent.com/rifqinauval2404-cmyk/rifqinauval2404-cmyk/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </p>
 
 ---
 
-<p align="center"><sub>Space theme • #000000 → #0d1127 • Montserrat</sub></p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1127,100:000000&height=100&section=footer&text=&fontColor=5a5a6e" />
